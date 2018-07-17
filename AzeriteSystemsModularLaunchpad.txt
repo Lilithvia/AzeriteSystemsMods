@@ -5,4 +5,4 @@
 //Modular launchpads in the following styles:
 //Alliance: Draenei, Gnomish, Human, Kul Tiran, Dwarven, and Void Elven
 //Horde: Orcish, Forsaken, Tauren, Blood Elven, Goblinish, and Zandalari Trollish
-//Neutral: Pandaren, Naga, Vry'kul, Scourge
+//Neutral: Pandaren, Naga, Vry'kul, Scourge, Burning Legion, Titan
