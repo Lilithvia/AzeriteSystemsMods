@@ -138,7 +138,7 @@ tags = #autoLOC_500663 //#autoLOC_500663 = conver isru mine )mining (ore process
 		 
 		 INPUT_RESOURCE
 		 {
-			ResourceName = Ore
+			ResourceName = Azerite
 			Ratio = 2.75
 			FlowMode = STAGE_PRIORITY_FLOW
   		 }
