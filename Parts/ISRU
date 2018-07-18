@@ -14,4 +14,35 @@
     @node_stack_bottom = 0.0, -0.9375, 0.0, 0.0, -1.0, 0.0, 0
     @node_attach[6] = 0
     @bulkheadProfiles = size0
+    	@MODULE[ModuleResourceConverter]:HAS[#ConverterName[LiquidFuel]] // LF
+	{
+		@ConverterName = RefinedAzerite
+		@StartActionName = Start ISRU [RefinedAzerite]
+		@StopActionName = Stop ISRU [RefinedAzerite]
+		@INPUT_RESOURCE:HAS[#ResourceName[Ore]]
+		{
+			@ResourceName = Azerite
+			@Ratio = 0.45
+		}
+		@OUTPUT_RESOURCE
+		{
+			@ResourceName = RefinedAzerite
+			@Ratio = 0.5
+		}
+	}
+	@MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] // OX
+	{
+		@ConverterName = DilutedAzerite
+		@StartActionName = Start ISRU [DilutedAzerite]
+		@StopActionName = Stop ISRU [DilutedAzerite]
+		@INPUT_RESOURCE:HAS[#ResourceName[Ore]]
+		{
+			@ResourceName = Azerite
+			@Ratio = 0.15
+		}
+		@OUTPUT_RESOURCE
+		{
+			@ResourceName = DilutedAzerite
+			@Ratio = 0.15
+		}
 }
