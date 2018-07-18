@@ -1,0 +1,17 @@
+//Add actual seperate part to make Refined and Diluted Azerite.
+//Author: Lilithvia
++PART[MiniISRU]
+{
+    @name = AzeriteRefinery
+    @rescaleFactor = 1
+    @TechRequired = generalConstruction
+    @entryCost = 15000
+    @cost = 2200
+    @title = Azerite Refinery
+    @description = A refinery used for producing Refined and Diluted Azerite, which are fuels for SRBs and Ion Engines
+    @mass = 1
+    @node_stack_top = 0.0, 0.9375, 0.0, 0.0, 1.0, 0.0, 0
+    @node_stack_bottom = 0.0, -0.9375, 0.0, 0.0, -1.0, 0.0, 0
+    @node_attach[6] = 0
+    @bulkheadProfiles = size0
+}
