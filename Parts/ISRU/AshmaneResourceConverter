@@ -11,36 +11,22 @@
     //We don't NEED to define this stuff after deleting the modules from the copied part. We just need to modify them!
     	@MODULE[ModuleResourceConverter]:HAS[#ConverterName[LiquidFuel]] // LF
 	{
-		@ConverterName = RefinedAzerite
-		@StartActionName = Start ISRU [RefinedAzerite]
-		@StopActionName = Stop ISRU [RefinedAzerite]
+		@ConverterName = Azerite
+		@StartActionName = Start ISRU [Azerite]
+		@StopActionName = Stop ISRU [Azerite]
 		@INPUT_RESOURCE:HAS[#ResourceName[Ore]]
 		{
-			@ResourceName = Azerite
-			@Ratio = 0.45
+			@ResourceName = Ore
+			@Ratio = 5.0
 		}
 		@OUTPUT_RESOURCE
 		{
-			@ResourceName = RefinedAzerite
-			@Ratio = 0.76
-		}
-	}
-	@MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] // OX
-	{
-		@ConverterName = DilutedAzerite
-		@StartActionName = Start ISRU [DilutedAzerite]
-		@StopActionName = Stop ISRU [DilutedAzerite]
-		@INPUT_RESOURCE:HAS[#ResourceName[Ore]]
-		{
 			@ResourceName = Azerite
-			@Ratio = 0.15
-		}
-		@OUTPUT_RESOURCE
-		{
-			@ResourceName = DilutedAzerite
-			@Ratio = 1
+					//I'm coming up with...
+			@Ratio = 0.32---point---33 //Repeating of course, percentage of survival.
 		}
 	}
+	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Oxidizer]] // OX
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[Lf+Ox]] {} // LFO
 	!MODULE[ModuleResourceConverter]:HAS[#ConverterName[MonoPropellant]]{} // MO
 }
