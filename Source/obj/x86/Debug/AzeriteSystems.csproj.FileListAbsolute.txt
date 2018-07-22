@@ -1,0 +1,9 @@
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Debug\AzeriteSystems.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Debug\AzeriteSystems.pdb
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Debug\Assembly-CSharp.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Debug\UnityEngine.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Debug\UnityEngine.UI.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\obj\x86\Debug\AzeriteSystems.csprojResolveAssemblyReference.cache
+C:\Users\TheGuys\Desktop\AzeriteSystems\obj\x86\Debug\AzeriteSystems.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\obj\x86\Debug\AzeriteSystems.pdb

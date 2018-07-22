@@ -1,0 +1,5 @@
+C:\Users\TheGuys\Desktop\KSPPluginTemplate\bin\Debug\KSPPluginRENAMEME.dll
+C:\Users\TheGuys\Desktop\KSPPluginTemplate\bin\Debug\KSPPluginRENAMEME.pdb
+C:\Users\TheGuys\Desktop\KSPPluginTemplate\obj\x86\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\TheGuys\Desktop\KSPPluginTemplate\obj\x86\Debug\KSPPluginRENAMEME.dll
+C:\Users\TheGuys\Desktop\KSPPluginTemplate\obj\x86\Debug\KSPPluginRENAMEME.pdb
