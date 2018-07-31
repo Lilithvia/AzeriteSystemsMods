@@ -1,0 +1,7 @@
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Release\AzeriteSystems.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Release\Assembly-CSharp.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Release\UnityEngine.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\bin\Release\UnityEngine.UI.dll
+C:\Users\TheGuys\Desktop\AzeriteSystems\obj\x86\Release\AzeriteSystems.csprojResolveAssemblyReference.cache
+C:\Users\TheGuys\Desktop\AzeriteSystems\obj\x86\Release\AzeriteSystems.dll
