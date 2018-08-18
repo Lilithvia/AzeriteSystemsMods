@@ -2,7 +2,8 @@
 //Patch authored by Lilithvia
 
 @PART[OrbitalScanner]
-  +MODULE[ModuleResourceScanner]
+{
+MODULE[ModuleResourceScanner]
 {
     name = ModuleResourceScanner
     MaxAbundanceAltitude = 500000
@@ -10,4 +11,4 @@
     ScannerType = 0
     ResourceName = Azerite_Ore
 }
-
+}
