@@ -1,0 +1,13 @@
+//Just need to modify the existing Scanners for this functionality, tbh.
+//Patch authored by Lilithvia
+
+@PART{OrbitalScanner}
+  +MODULE{ModuleResourceScanner}
+{
+    name = ModuleAzeriteScanner
+    MaxAbundanceAltitude = 500000
+    RequiresUnlock = true
+    ScannerType = 0
+    ResourceName = Azerite_Ore
+}
+
