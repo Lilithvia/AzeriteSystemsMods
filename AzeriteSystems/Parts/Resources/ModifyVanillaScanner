@@ -1,10 +1,10 @@
 //Just need to modify the existing Scanners for this functionality, tbh.
 //Patch authored by Lilithvia
 
-@PART{OrbitalScanner}
-  +MODULE{ModuleResourceScanner}
+@PART[OrbitalScanner]
+  +MODULE[ModuleResourceScanner]
 {
-    name = ModuleAzeriteScanner
+    name = ModuleResourceScanner
     MaxAbundanceAltitude = 500000
     RequiresUnlock = true
     ScannerType = 0
